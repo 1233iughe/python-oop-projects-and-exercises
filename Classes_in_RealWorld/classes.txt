@@ -1,0 +1,7 @@
+Identify 3 classes that might be needed for a program developed for a:
+
+Bank: Account, User, ATM
+
+Donut Shop: Register, Kitchen, Donut
+
+Videogame Store: Employee, Videogame, Inventory
