@@ -1,6 +1,9 @@
 class Programmer:
     
      # Add the class attributes
+    salary = 25000
+    monthly_bonus = 1000
+
     
     def __init__(self, name, age, address, phone, programming_languages):
         self.name = name
@@ -13,6 +16,8 @@ class Programmer:
 class Assistant:
     
     # Add the class attributes
+    salary = 12000
+    monthly_bonus = 1000
     
     def __init__(self, name, age, address, phone, is_bilingual):
         self.name = name
