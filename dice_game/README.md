@@ -51,7 +51,7 @@ The idea is the following
     * Starts the infinite loop and creates the instances of the other classes. Display rules and options to play or exit.
 * play_round
     * Plays a round, determines winner of round and updates players' counter attributes
-* winner
+* check_game_over
     * Checks if somebody won the game (counter == 0), if so it interrupts the game and shows the adequate message.
 * The Game class should display
     * Introduction and rules of the game
